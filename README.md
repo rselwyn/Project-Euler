@@ -1,2 +1,2 @@
 # Project-Euler
-A repo with my solutions to Euler problems.
+A repo with my solutions to Euler problems.  
